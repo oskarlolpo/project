@@ -1,0 +1,484 @@
+{
+  "versions": [
+    {
+      "id": "1.21.94",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.94/1.21.94.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.93",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.93/1.21.93.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.92",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.92/1.21.92.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.90",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.90/1.21.90.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.82",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.82/1.21.82.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.81",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.81/1.21.81.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.80",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.80/1.21.80.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.73",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.73/1.21.73.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.72",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.72/1.21.72.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.71",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.71/1.21.71.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.70",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.70/1.21.70.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.62",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.62/1.21.62.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.61",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.61/1.21.61.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.60",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.60/1.21.60.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.51",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.51/1.21.51.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.50",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.50/1.21.50.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.44",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.44/1.21.44.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.43",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.43/1.21.43.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.41",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.41/1.21.41.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.40",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.40/1.21.40.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.31",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.31/1.21.31.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.30",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.30/1.21.30.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.23",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.23/1.21.23.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.22",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.22/1.21.22.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.21",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.21/1.21.21.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.20",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.20/1.21.20.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.2",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.2/1.21.2.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.1",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.1/1.21.1.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.21.0",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.0/1.21.0.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.20.81",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.81/1.20.81.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.20.80",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.80/1.20.80.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.20.73",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.73/1.20.73.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.20.72",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.72/1.20.72.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.20.71",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.71/1.20.71.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.20.70",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.70/1.20.70.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.20.62",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.62/1.20.62.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.20.60",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.60/1.20.60.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.20.51",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.51/1.20.51.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.20.50",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.50/1.20.50.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.20.41",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.41/1.20.41.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.20.40",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.40/1.20.40.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.20.32",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.32/1.20.32.appx",
+      "sha256": null
+    },
+    {
+      "id": "1.20.31",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.31/1.20.31.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.20.30",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.30/1.20.30.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.20.15",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.15/1.20.15.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.20.12",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.12/1.20.12.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.20.10",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.10/1.20.10.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.20.1",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.1/1.20.1.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.20.0",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.0/1.20.0.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.19.83",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.83/1.19.83.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.19.81",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.81/1.19.81.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.19.80",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.80/1.19.80.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.19.73",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.73/1.19.73.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.19.71",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.71/1.19.71.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.19.70",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.70/1.19.70.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.19.63",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.63/1.19.63.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.19.62",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.62/1.19.62.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.19.60",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.60/1.19.60.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.19.51",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.51/1.19.51.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.19.50",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.50/1.19.50.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.19.41",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.41/1.19.41.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.19.40",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.40/1.19.40.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.19.31",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.31/1.19.31.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.19.30",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.30/1.19.30.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.19.22",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.22/1.19.22.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.19.21",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.21/1.19.21.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.19.20",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.20/1.19.20.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.19.11",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.11/1.19.11.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.19.10",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.10/1.19.10.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.19.2",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.2/1.19.2.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.19.0",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.0/1.19.0.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.18.31",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.18.31/1.18.31.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.18.30",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.18.30/1.18.30.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.18.12",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.18.12/1.18.12.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.18.10",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.18.10/1.18.10.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.18.2",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.18.2/1.18.2.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.18.1",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.18.1/1.18.1.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.18.0",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.18.0/1.18.0.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.17.41",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.41/1.17.41.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.17.40",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.40/1.17.40.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.17.34",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.34/1.17.34.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.17.32",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.32/1.17.32.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.17.30",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.30/1.17.30.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.17.11",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.11/1.17.11.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.17.10",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.10/1.17.10.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.17.2",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.2/1.17.2.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.17.0",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.0/1.17.0.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.16.221",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.16.221/1.16.221.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.16.220",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.16.220/1.16.220.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.16.210",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.16.210/1.16.210.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.16.201",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.16.201/1.16.201.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.16.200",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.16.200/1.16.200.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.16.100",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.16.100/1.16.100.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.16.40",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.16.40/1.16.40.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.12.1",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.12.1/1.12.1.Appx",
+      "sha256": null
+    },
+    {
+      "id": "1.12.0",
+      "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.12.0/1.12.0.Appx",
+      "sha256": null
+    }
+  ]
+}
