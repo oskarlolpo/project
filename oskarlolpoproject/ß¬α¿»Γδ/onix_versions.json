@@ -1,0 +1,1612 @@
+[
+  {
+    "version": "1.21.93",
+    "name": "1.21.93",
+    "published_at": "2025-07-03T21:15:14Z",
+    "assets": [
+      {
+        "name": "1.21.93.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.93/1.21.93.Appx",
+        "size": 917839504
+      },
+      {
+        "name": "1.21.93.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.93/1.21.93.Appx.xdelta3",
+        "size": 60663928
+      }
+    ]
+  },
+  {
+    "version": "1.21.92",
+    "name": "1.21.92",
+    "published_at": "2025-06-20T14:39:22Z",
+    "assets": [
+      {
+        "name": "1.21.92.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.92/1.21.92.Appx",
+        "size": 916437433
+      },
+      {
+        "name": "1.21.92.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.92/1.21.92.Appx.xdelta3",
+        "size": 56755641
+      }
+    ]
+  },
+  {
+    "version": "1.21.90",
+    "name": "1.21.90",
+    "published_at": "2025-06-17T16:46:21Z",
+    "assets": [
+      {
+        "name": "1.21.90.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.90/1.21.90.Appx",
+        "size": 916465993
+      },
+      {
+        "name": "1.21.90.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.90/1.21.90.Appx.xdelta3",
+        "size": 235367976
+      }
+    ]
+  },
+  {
+    "version": "1.21.82",
+    "name": "1.21.82",
+    "published_at": "2025-05-19T17:14:47Z",
+    "assets": [
+      {
+        "name": "1.21.82.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.82/1.21.82.Appx",
+        "size": 885281749
+      },
+      {
+        "name": "1.21.82.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.82/1.21.82.Appx.xdelta3",
+        "size": 55527779
+      }
+    ]
+  },
+  {
+    "version": "1.21.81",
+    "name": "1.21.81",
+    "published_at": "2025-05-14T20:21:13Z",
+    "assets": [
+      {
+        "name": "1.21.81.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.81/1.21.81.Appx",
+        "size": 885284488
+      },
+      {
+        "name": "1.21.81.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.81/1.21.81.Appx.xdelta3",
+        "size": 56468316
+      }
+    ]
+  },
+  {
+    "version": "1.21.80",
+    "name": "1.21.80",
+    "published_at": "2025-05-06T16:52:20Z",
+    "assets": [
+      {
+        "name": "1.21.80.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.80/1.21.80.Appx",
+        "size": 885282218
+      },
+      {
+        "name": "1.21.80.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.80/1.21.80.Appx.xdelta3",
+        "size": 333912851
+      }
+    ]
+  },
+  {
+    "version": "1.21.73",
+    "name": "1.21.73",
+    "published_at": "2025-04-12T13:10:20Z",
+    "assets": [
+      {
+        "name": "1.21.73.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.73/1.21.73.Appx",
+        "size": 860376012
+      },
+      {
+        "name": "1.21.73.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.73/1.21.73.Appx.xdelta3",
+        "size": 53809553
+      }
+    ]
+  },
+  {
+    "version": "1.21.72",
+    "name": "1.21.72",
+    "published_at": "2025-04-08T22:57:08Z",
+    "assets": [
+      {
+        "name": "1.21.72.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.72/1.21.72.Appx",
+        "size": 860378956
+      },
+      {
+        "name": "1.21.72.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.72/1.21.72.Appx.xdelta3",
+        "size": 53768979
+      }
+    ]
+  },
+  {
+    "version": "1.21.71",
+    "name": "1.21.71",
+    "published_at": "2025-03-28T17:25:42Z",
+    "assets": [
+      {
+        "name": "1.21.71.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.71/1.21.71.Appx",
+        "size": 860351476
+      },
+      {
+        "name": "1.21.71.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.71/1.21.71.Appx.xdelta3",
+        "size": 54494104
+      }
+    ]
+  },
+  {
+    "version": "1.21.70",
+    "name": "1.21.70",
+    "published_at": "2025-03-25T16:39:53Z",
+    "assets": [
+      {
+        "name": "1.21.70.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.70/1.21.70.Appx",
+        "size": 860360137
+      },
+      {
+        "name": "1.21.70.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.70/1.21.70.Appx.xdelta3",
+        "size": 197161607
+      }
+    ]
+  },
+  {
+    "version": "1.21.62",
+    "name": "1.21.62",
+    "published_at": "2025-02-26T00:16:39Z",
+    "assets": [
+      {
+        "name": "1.21.62.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.62/1.21.62.Appx",
+        "size": 851772222
+      },
+      {
+        "name": "1.21.62.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.62/1.21.62.Appx.xdelta3",
+        "size": 52631466
+      }
+    ]
+  },
+  {
+    "version": "1.21.61",
+    "name": "1.21.61",
+    "published_at": "2025-02-20T17:23:01Z",
+    "assets": [
+      {
+        "name": "1.21.61.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.61/1.21.61.Appx",
+        "size": 851779137
+      },
+      {
+        "name": "1.21.61.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.61/1.21.61.Appx.xdelta3",
+        "size": 52989139
+      }
+    ]
+  },
+  {
+    "version": "1.21.60",
+    "name": "1.21.60",
+    "published_at": "2025-02-11T18:21:41Z",
+    "assets": [
+      {
+        "name": "1.21.60.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.60/1.21.60.Appx",
+        "size": 851779328
+      },
+      {
+        "name": "1.21.60.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.60/1.21.60.Appx.xdelta3",
+        "size": 165987944
+      }
+    ]
+  },
+  {
+    "version": "1.21.51",
+    "name": "1.21.51",
+    "published_at": "2024-12-11T00:41:41Z",
+    "assets": [
+      {
+        "name": "1.21.51.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.51/1.21.51.Appx",
+        "size": 829341591
+      },
+      {
+        "name": "1.21.51.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.51/1.21.51.Appx.xdelta3",
+        "size": 47309176
+      }
+    ]
+  },
+  {
+    "version": "1.21.50",
+    "name": "1.21.50",
+    "published_at": "2024-12-03T17:35:23Z",
+    "assets": [
+      {
+        "name": "1.21.50.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.50/1.21.50.Appx",
+        "size": 829342862
+      },
+      {
+        "name": "1.21.50.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.50/1.21.50.Appx.xdelta3",
+        "size": 190439936
+      }
+    ]
+  },
+  {
+    "version": "1.21.44",
+    "name": "1.21.44",
+    "published_at": "2024-11-01T14:00:28Z",
+    "assets": [
+      {
+        "name": "1.21.44.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.44/1.21.44.Appx",
+        "size": 816816781
+      },
+      {
+        "name": "1.21.44.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.44/1.21.44.Appx.xdelta3",
+        "size": 43920482
+      }
+    ]
+  },
+  {
+    "version": "1.21.43",
+    "name": "1.21.43",
+    "published_at": "2024-10-28T17:28:09Z",
+    "assets": [
+      {
+        "name": "1.21.43.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.43/1.21.43.Appx",
+        "size": 816817517
+      },
+      {
+        "name": "1.21.43.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.43/1.21.43.Appx.xdelta3",
+        "size": 43814141
+      }
+    ]
+  },
+  {
+    "version": "1.21.41",
+    "name": "1.21.41",
+    "published_at": "2024-10-22T21:46:09Z",
+    "assets": [
+      {
+        "name": "1.21.41.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.41/1.21.41.Appx",
+        "size": 816833285
+      },
+      {
+        "name": "1.21.41.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.41/1.21.41.Appx.xdelta3",
+        "size": 44445560
+      }
+    ]
+  },
+  {
+    "version": "1.21.40",
+    "name": "1.21.40",
+    "published_at": "2024-10-22T16:21:14Z",
+    "assets": [
+      {
+        "name": "1.21.40.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.40/1.21.40.Appx",
+        "size": 816829780
+      },
+      {
+        "name": "1.21.40.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.40/1.21.40.Appx.xdelta3",
+        "size": 166421495
+      }
+    ]
+  },
+  {
+    "version": "1.21.31",
+    "name": "1.21.31",
+    "published_at": "2024-09-30T17:28:06Z",
+    "assets": [
+      {
+        "name": "1.21.31.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.31/1.21.31.Appx",
+        "size": 802747645
+      },
+      {
+        "name": "1.21.31.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.31/1.21.31.Appx.xdelta3",
+        "size": 126118878
+      }
+    ]
+  },
+  {
+    "version": "1.21.30",
+    "name": "1.21.30",
+    "published_at": "2024-09-17T17:00:47Z",
+    "assets": [
+      {
+        "name": "1.21.30.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.30/1.21.30.Appx",
+        "size": 802755962
+      },
+      {
+        "name": "1.21.30.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.30/1.21.30.Appx.xdelta3",
+        "size": 146758391
+      }
+    ]
+  },
+  {
+    "version": "1.21.23",
+    "name": "1.21.23",
+    "published_at": "2024-09-04T02:08:59Z",
+    "assets": [
+      {
+        "name": "1.21.23.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.23/1.21.23.Appx",
+        "size": 800021663
+      },
+      {
+        "name": "1.21.23.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.23/1.21.23.Appx.xdelta3",
+        "size": 38595735
+      }
+    ]
+  },
+  {
+    "version": "1.21.22",
+    "name": "1.21.22",
+    "published_at": "2024-08-28T21:29:58Z",
+    "assets": [
+      {
+        "name": "1.21.22.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.22/1.21.22.Appx",
+        "size": 800023579
+      },
+      {
+        "name": "1.21.22.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.22/1.21.22.Appx.xdelta3",
+        "size": 38705581
+      }
+    ]
+  },
+  {
+    "version": "1.21.21",
+    "name": "1.21.21",
+    "published_at": "2024-08-18T01:58:31Z",
+    "assets": [
+      {
+        "name": "1.21.21.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.21/1.21.21.Appx",
+        "size": 800021777
+      },
+      {
+        "name": "1.21.21.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.21/1.21.21.Appx.xdelta3",
+        "size": 38845521
+      }
+    ]
+  },
+  {
+    "version": "1.21.20",
+    "name": "1.21.20",
+    "published_at": "2024-08-18T01:53:26Z",
+    "assets": [
+      {
+        "name": "1.21.20.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.20/1.21.20.Appx",
+        "size": 800020426
+      },
+      {
+        "name": "1.21.20.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.20/1.21.20.Appx.xdelta3",
+        "size": 429579840
+      }
+    ]
+  },
+  {
+    "version": "1.21.2",
+    "name": "1.21.2",
+    "published_at": "2024-07-10T13:06:02Z",
+    "assets": [
+      {
+        "name": "1.21.2.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.2/1.21.2.Appx",
+        "size": 1125085631
+      },
+      {
+        "name": "1.21.2.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.2/1.21.2.Appx.xdelta3",
+        "size": 41580849
+      }
+    ]
+  },
+  {
+    "version": "1.21.1",
+    "name": "1.21.1",
+    "published_at": "2024-06-21T18:13:16Z",
+    "assets": [
+      {
+        "name": "1.21.1.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.1/1.21.1.Appx",
+        "size": 1125089671
+      },
+      {
+        "name": "1.21.1.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.1/1.21.1.Appx.xdelta3",
+        "size": 44695625
+      }
+    ]
+  },
+  {
+    "version": "1.21.0",
+    "name": "1.21.0",
+    "published_at": "2024-06-13T16:47:22Z",
+    "assets": [
+      {
+        "name": "1.21.0.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.0/1.21.0.Appx",
+        "size": 1125055011
+      },
+      {
+        "name": "1.21.0.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.21.0/1.21.0.Appx.xdelta3",
+        "size": 588681760
+      }
+    ]
+  },
+  {
+    "version": "1.20.81",
+    "name": "1.20.81",
+    "published_at": "2024-04-29T17:52:23Z",
+    "assets": [
+      {
+        "name": "1.20.81.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.81/1.20.81.Appx",
+        "size": 945790396
+      },
+      {
+        "name": "1.20.81.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.81/1.20.81.Appx.xdelta3",
+        "size": 39275917
+      }
+    ]
+  },
+  {
+    "version": "1.20.80",
+    "name": "1.20.80",
+    "published_at": "2024-04-24T14:03:03Z",
+    "assets": [
+      {
+        "name": "1.20.80.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.80/1.20.80.Appx",
+        "size": 945789818
+      },
+      {
+        "name": "1.20.80.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.80/1.20.80.Appx.xdelta3",
+        "size": 117846799
+      }
+    ]
+  },
+  {
+    "version": "1.20.73",
+    "name": "1.20.73",
+    "published_at": "2024-04-01T19:01:39Z",
+    "assets": [
+      {
+        "name": "1.20.73.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.73/1.20.73.Appx",
+        "size": 944233740
+      },
+      {
+        "name": "1.20.73.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.73/1.20.73.Appx.xdelta3",
+        "size": 43722443
+      }
+    ]
+  },
+  {
+    "version": "1.20.72",
+    "name": "1.20.72",
+    "published_at": "2024-03-23T23:15:22Z",
+    "assets": [
+      {
+        "name": "1.20.72.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.72/1.20.72.Appx",
+        "size": 943638126
+      },
+      {
+        "name": "1.20.72.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.72/1.20.72.Appx.xdelta3",
+        "size": 39023361
+      }
+    ]
+  },
+  {
+    "version": "1.20.71",
+    "name": "1.20.71",
+    "published_at": "2024-03-13T14:51:58Z",
+    "assets": [
+      {
+        "name": "1.20.71.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.71/1.20.71.Appx",
+        "size": 945569976
+      },
+      {
+        "name": "1.20.71.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.71/1.20.71.Appx.xdelta3",
+        "size": 38514151
+      }
+    ]
+  },
+  {
+    "version": "1.20.70",
+    "name": "1.20.70",
+    "published_at": "2024-03-12T17:54:59Z",
+    "assets": [
+      {
+        "name": "1.20.70.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.70/1.20.70.Appx",
+        "size": 945567916
+      },
+      {
+        "name": "1.20.70.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.70/1.20.70.Appx.xdelta3",
+        "size": 120322399
+      }
+    ]
+  },
+  {
+    "version": "1.20.62",
+    "name": "1.20.62",
+    "published_at": "2024-02-20T18:44:47Z",
+    "assets": [
+      {
+        "name": "1.20.62.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.62/1.20.62.Appx",
+        "size": 977248759
+      },
+      {
+        "name": "1.20.62.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.62/1.20.62.Appx.xdelta3",
+        "size": 38442121
+      }
+    ]
+  },
+  {
+    "version": "1.20.60",
+    "name": "1.20.60",
+    "published_at": "2024-02-06T18:45:00Z",
+    "assets": [
+      {
+        "name": "1.20.60.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.60/1.20.60.Appx",
+        "size": 977242579
+      },
+      {
+        "name": "1.20.60.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.60/1.20.60.Appx.xdelta3",
+        "size": 849755709
+      }
+    ]
+  },
+  {
+    "version": "1.20.51",
+    "name": "1.20.51",
+    "published_at": "2023-12-15T15:30:02Z",
+    "assets": [
+      {
+        "name": "1.20.51.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.51/1.20.51.Appx",
+        "size": 917453780
+      },
+      {
+        "name": "1.20.51.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.51/1.20.51.Appx.xdelta3",
+        "size": 37235882
+      }
+    ]
+  },
+  {
+    "version": "1.20.50",
+    "name": "1.20.50",
+    "published_at": "2023-12-06T17:12:45Z",
+    "assets": [
+      {
+        "name": "1.20.50.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.50/1.20.50.Appx",
+        "size": 917463622
+      },
+      {
+        "name": "1.20.50.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.50/1.20.50.Appx.xdelta3",
+        "size": 95174281
+      }
+    ]
+  },
+  {
+    "version": "1.20.41",
+    "name": "1.20.41",
+    "published_at": "2023-11-02T19:07:07Z",
+    "assets": [
+      {
+        "name": "1.20.41.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.41/1.20.41.Appx",
+        "size": 913433131
+      },
+      {
+        "name": "1.20.41.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.41/1.20.41.Appx.xdelta3",
+        "size": 81069865
+      }
+    ]
+  },
+  {
+    "version": "1.20.40",
+    "name": "1.20.40",
+    "published_at": "2023-10-25T14:29:40Z",
+    "assets": [
+      {
+        "name": "1.20.32.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.40/1.20.32.Appx.xdelta3",
+        "size": 82414509
+      },
+      {
+        "name": "1.20.40.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.40/1.20.40.Appx",
+        "size": 913501448
+      }
+    ]
+  },
+  {
+    "version": "1.20.32",
+    "name": "1.20.32",
+    "published_at": "2023-10-06T14:43:47Z",
+    "assets": [
+      {
+        "name": "1.20.32.appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.32/1.20.32.appx",
+        "size": 912481257
+      },
+      {
+        "name": "1.20.32.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.32/1.20.32.Appx.xdelta3",
+        "size": 82414509
+      }
+    ]
+  },
+  {
+    "version": "1.20.31",
+    "name": "1.20.31",
+    "published_at": "2023-09-26T17:42:34Z",
+    "assets": [
+      {
+        "name": "1.20.31.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.31/1.20.31.Appx",
+        "size": 912541526
+      },
+      {
+        "name": "1.20.31.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.31/1.20.31.Appx.xdelta3",
+        "size": 82566580
+      }
+    ]
+  },
+  {
+    "version": "1.20.30",
+    "name": "1.20.30",
+    "published_at": "2023-09-20T14:23:15Z",
+    "assets": [
+      {
+        "name": "1.20.30.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.30/1.20.30.Appx",
+        "size": 912463831
+      },
+      {
+        "name": "1.20.30.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.30/1.20.30.Appx.xdelta3",
+        "size": 101208028
+      }
+    ]
+  },
+  {
+    "version": "1.20.15",
+    "name": "1.20.15",
+    "published_at": "2023-08-18T20:35:33Z",
+    "assets": [
+      {
+        "name": "1.20.15.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.15/1.20.15.Appx",
+        "size": 908768844
+      },
+      {
+        "name": "1.20.15.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.15/1.20.15.Appx.xdelta3",
+        "size": 81472260
+      }
+    ]
+  },
+  {
+    "version": "1.20.12",
+    "name": "1.20.12",
+    "published_at": "2023-07-19T13:42:00Z",
+    "assets": [
+      {
+        "name": "1.20.12.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.12/1.20.12.Appx",
+        "size": 908883151
+      },
+      {
+        "name": "1.20.12.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.12/1.20.12.Appx.xdelta3",
+        "size": 81701665
+      }
+    ]
+  },
+  {
+    "version": "1.20.10",
+    "name": "1.20.10",
+    "published_at": "2023-07-14T04:35:39Z",
+    "assets": [
+      {
+        "name": "1.20.10.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.10/1.20.10.Appx",
+        "size": 908701374
+      },
+      {
+        "name": "1.20.10.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.10/1.20.10.Appx.xdelta3",
+        "size": 94750403
+      }
+    ]
+  },
+  {
+    "version": "1.20.1",
+    "name": "1.20.1",
+    "published_at": "2023-06-23T20:53:42Z",
+    "assets": [
+      {
+        "name": "1.20.1.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.1/1.20.1.Appx",
+        "size": 923949002
+      },
+      {
+        "name": "1.20.1.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.1/1.20.1.Appx.xdelta3",
+        "size": 95194225
+      }
+    ]
+  },
+  {
+    "version": "1.20.0",
+    "name": "1.20.0",
+    "published_at": "2023-06-07T16:02:31Z",
+    "assets": [
+      {
+        "name": "1.20.0.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.0/1.20.0.Appx",
+        "size": 924025552
+      },
+      {
+        "name": "1.20.0.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.20.0/1.20.0.Appx.xdelta3",
+        "size": 493884713
+      }
+    ]
+  },
+  {
+    "version": "1.19.83",
+    "name": "1.19.83",
+    "published_at": "2023-05-19T16:27:23Z",
+    "assets": [
+      {
+        "name": "1.19.83.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.83/1.19.83.Appx",
+        "size": 839993164
+      },
+      {
+        "name": "1.19.83.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.83/1.19.83.Appx.xdelta3",
+        "size": 69038439
+      }
+    ]
+  },
+  {
+    "version": "1.19.81",
+    "name": "1.19.81",
+    "published_at": "2023-04-29T19:05:32Z",
+    "assets": [
+      {
+        "name": "1.19.81.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.81/1.19.81.Appx",
+        "size": 839937443
+      },
+      {
+        "name": "1.19.81.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.81/1.19.81.Appx.xdelta3",
+        "size": 68702830
+      }
+    ]
+  },
+  {
+    "version": "1.19.80",
+    "name": "1.19.80",
+    "published_at": "2023-04-29T18:37:01Z",
+    "assets": [
+      {
+        "name": "1.19.80.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.80/1.19.80.Appx",
+        "size": 839929791
+      },
+      {
+        "name": "1.19.80.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.80/1.19.80.Appx.xdelta3",
+        "size": 80799585
+      }
+    ]
+  },
+  {
+    "version": "1.19.73",
+    "name": "1.19.73",
+    "published_at": "2023-03-30T16:02:20Z",
+    "assets": [
+      {
+        "name": "1.19.73.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.73/1.19.73.Appx",
+        "size": 828802202
+      },
+      {
+        "name": "1.19.73.Appx.xdelta.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.73/1.19.73.Appx.xdelta.xdelta3",
+        "size": 60780376
+      }
+    ]
+  },
+  {
+    "version": "1.19.71",
+    "name": "1.19.71",
+    "published_at": "2023-03-20T02:33:32Z",
+    "assets": [
+      {
+        "name": "1.19.71.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.71/1.19.71.Appx",
+        "size": 828837859
+      },
+      {
+        "name": "1.19.71.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.71/1.19.71.Appx.xdelta3",
+        "size": 61197066
+      }
+    ]
+  },
+  {
+    "version": "1.19.70",
+    "name": "1.19.70",
+    "published_at": "2023-03-14T18:18:40Z",
+    "assets": [
+      {
+        "name": "1.19.70.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.70/1.19.70.Appx",
+        "size": 828867994
+      },
+      {
+        "name": "1.19.70.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.70/1.19.70.Appx.xdelta3",
+        "size": 72420767
+      }
+    ]
+  },
+  {
+    "version": "1.19.63",
+    "name": "1.19.63",
+    "published_at": "2023-02-26T20:40:39Z",
+    "assets": [
+      {
+        "name": "1.19.63.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.63/1.19.63.Appx",
+        "size": 825790186
+      },
+      {
+        "name": "1.19.63.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.63/1.19.63.Appx.xdelta3",
+        "size": 60565079
+      }
+    ]
+  },
+  {
+    "version": "1.19.62",
+    "name": "1.19.62",
+    "published_at": "2023-02-17T01:07:46Z",
+    "assets": [
+      {
+        "name": "1.19.62.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.62/1.19.62.Appx",
+        "size": 825740453
+      },
+      {
+        "name": "1.19.62.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.62/1.19.62.Appx.xdelta3",
+        "size": 61322470
+      }
+    ]
+  },
+  {
+    "version": "1.19.60",
+    "name": "1.19.60",
+    "published_at": "2023-02-08T16:31:44Z",
+    "assets": [
+      {
+        "name": "1.19.60.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.60/1.19.60.Appx",
+        "size": 825774541
+      },
+      {
+        "name": "1.19.60.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.60/1.19.60.Appx.xdelta3",
+        "size": 77663725
+      }
+    ]
+  },
+  {
+    "version": "1.12.1",
+    "name": "1.12.1",
+    "published_at": "2023-01-06T20:01:00Z",
+    "assets": [
+      {
+        "name": "1.12.1.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.12.1/1.12.1.Appx",
+        "size": 188671415
+      },
+      {
+        "name": "1.12.1.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.12.1/1.12.1.Appx.xdelta3",
+        "size": 15941112
+      }
+    ]
+  },
+  {
+    "version": "1.12.0",
+    "name": "1.12.0",
+    "published_at": "2023-01-06T19:59:46Z",
+    "assets": [
+      {
+        "name": "1.12.0.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.12.0/1.12.0.Appx",
+        "size": 188671881
+      }
+    ]
+  },
+  {
+    "version": "1.19.51",
+    "name": "1.19.51",
+    "published_at": "2022-12-13T20:22:38Z",
+    "assets": [
+      {
+        "name": "1.19.51.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.51/1.19.51.Appx",
+        "size": 820903278
+      },
+      {
+        "name": "1.19.51.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.51/1.19.51.Appx.xdelta3",
+        "size": 60120880
+      }
+    ]
+  },
+  {
+    "version": "1.19.50",
+    "name": "1.19.50",
+    "published_at": "2022-11-29T19:49:45Z",
+    "assets": [
+      {
+        "name": "1.19.50.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.50/1.19.50.Appx",
+        "size": 820859564
+      },
+      {
+        "name": "1.19.50.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.50/1.19.50.Appx.xdelta3",
+        "size": 70617119
+      }
+    ]
+  },
+  {
+    "version": "1.19.41",
+    "name": "1.19.41",
+    "published_at": "2022-11-03T16:52:06Z",
+    "assets": [
+      {
+        "name": "1.19.41.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.41/1.19.41.Appx",
+        "size": 819033740
+      },
+      {
+        "name": "1.19.41.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.41/1.19.41.Appx.xdelta3",
+        "size": 60068113
+      }
+    ]
+  },
+  {
+    "version": "1.19.40",
+    "name": "1.19.40",
+    "published_at": "2022-10-25T18:16:15Z",
+    "assets": [
+      {
+        "name": "1.19.40.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.40/1.19.40.Appx",
+        "size": 819130735
+      },
+      {
+        "name": "1.19.40.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.40/1.19.40.Appx.xdelta3",
+        "size": 77016745
+      }
+    ]
+  },
+  {
+    "version": "1.19.31",
+    "name": "1.19.31",
+    "published_at": "2022-10-05T15:40:35Z",
+    "assets": [
+      {
+        "name": "1.19.31.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.31/1.19.31.Appx",
+        "size": 807430306
+      },
+      {
+        "name": "1.19.31.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.31/1.19.31.Appx.xdelta3",
+        "size": 58803596
+      }
+    ]
+  },
+  {
+    "version": "1.19.30",
+    "name": "1.19.30",
+    "published_at": "2022-09-23T18:21:23Z",
+    "assets": [
+      {
+        "name": "1.19.30.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.30/1.19.30.Appx",
+        "size": 806939621
+      },
+      {
+        "name": "1.19.30.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.30/1.19.30.Appx.xdelta3",
+        "size": 67403904
+      }
+    ]
+  },
+  {
+    "version": "1.19.22",
+    "name": "1.19.22",
+    "published_at": "2022-09-09T14:44:13Z",
+    "assets": [
+      {
+        "name": "1.19.22.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.22/1.19.22.Appx",
+        "size": 801598467
+      },
+      {
+        "name": "1.19.22.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.22/1.19.22.Appx.xdelta3",
+        "size": 54675909
+      }
+    ]
+  },
+  {
+    "version": "1.19.21",
+    "name": "1.19.21",
+    "published_at": "2022-09-09T14:44:08Z",
+    "assets": [
+      {
+        "name": "1.19.21.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.21/1.19.21.Appx",
+        "size": 801481527
+      },
+      {
+        "name": "1.19.21.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.21/1.19.21.Appx.xdelta3",
+        "size": 54582902
+      }
+    ]
+  },
+  {
+    "version": "1.19.20",
+    "name": "1.19.20",
+    "published_at": "2022-08-10T01:33:23Z",
+    "assets": [
+      {
+        "name": "1.19.20.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.20/1.19.20.Appx",
+        "size": 801508274
+      },
+      {
+        "name": "1.19.20.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.20/1.19.20.Appx.xdelta3",
+        "size": 61726686
+      }
+    ]
+  },
+  {
+    "version": "1.19.11",
+    "name": "1.19.11",
+    "published_at": "2022-07-26T23:22:59Z",
+    "assets": [
+      {
+        "name": "1.19.11.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.11/1.19.11.Appx",
+        "size": 822800623
+      },
+      {
+        "name": "1.19.20.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.11/1.19.20.Appx.xdelta3",
+        "size": 61726686
+      }
+    ]
+  },
+  {
+    "version": "1.19.10",
+    "name": "1.19.10",
+    "published_at": "2022-07-15T21:11:46Z",
+    "assets": [
+      {
+        "name": "1.19.10.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.10/1.19.10.Appx",
+        "size": 822824628
+      },
+      {
+        "name": "1.19.10.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.10/1.19.10.Appx.xdelta3",
+        "size": 87862801
+      }
+    ]
+  },
+  {
+    "version": "1.19.2",
+    "name": "1.19.2",
+    "published_at": "2022-06-24T17:09:29Z",
+    "assets": [
+      {
+        "name": "1.19.2.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.2/1.19.2.Appx",
+        "size": 820264506
+      },
+      {
+        "name": "1.19.2.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.2/1.19.2.Appx.xdelta3",
+        "size": 74522333
+      }
+    ]
+  },
+  {
+    "version": "1.19.0",
+    "name": "1.19.0",
+    "published_at": "2022-06-10T15:57:15Z",
+    "assets": [
+      {
+        "name": "1.19.0.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.0/1.19.0.Appx",
+        "size": 820052055
+      },
+      {
+        "name": "1.19.0.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.19.0/1.19.0.Appx.xdelta3",
+        "size": 458519828
+      }
+    ]
+  },
+  {
+    "version": "1.18.31",
+    "name": "1.18.31",
+    "published_at": "2022-04-30T19:09:31Z",
+    "assets": [
+      {
+        "name": "1.18.31.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.18.31/1.18.31.Appx",
+        "size": 749464438
+      },
+      {
+        "name": "1.18.31.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.18.31/1.18.31.Appx.xdelta3",
+        "size": 83503970
+      }
+    ]
+  },
+  {
+    "version": "1.18.30",
+    "name": "1.18.30",
+    "published_at": "2022-04-30T19:09:17Z",
+    "assets": [
+      {
+        "name": "1.18.30.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.18.30/1.18.30.Appx",
+        "size": 749393974
+      },
+      {
+        "name": "1.18.30.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.18.30/1.18.30.Appx.xdelta3",
+        "size": 98735697
+      }
+    ]
+  },
+  {
+    "version": "1.18.12",
+    "name": "1.18.12",
+    "published_at": "2022-04-30T19:08:49Z",
+    "assets": [
+      {
+        "name": "1.18.12.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.18.12/1.18.12.Appx",
+        "size": 721904114
+      },
+      {
+        "name": "1.18.12.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.18.12/1.18.12.Appx.xdelta3",
+        "size": 60190669
+      }
+    ]
+  },
+  {
+    "version": "1.18.10",
+    "name": "1.18.10",
+    "published_at": "2022-04-30T18:45:45Z",
+    "assets": [
+      {
+        "name": "1.18.10.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.18.10/1.18.10.Appx",
+        "size": 722007837
+      },
+      {
+        "name": "1.18.10.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.18.10/1.18.10.Appx.xdelta3",
+        "size": 96122921
+      }
+    ]
+  },
+  {
+    "version": "1.18.2",
+    "name": "1.18.2",
+    "published_at": "2022-04-30T18:45:43Z",
+    "assets": [
+      {
+        "name": "1.18.2.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.18.2/1.18.2.Appx",
+        "size": 714553010
+      },
+      {
+        "name": "1.18.2.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.18.2/1.18.2.Appx.xdelta3",
+        "size": 58791897
+      }
+    ]
+  },
+  {
+    "version": "1.18.1",
+    "name": "1.18.1",
+    "published_at": "2022-04-30T18:45:37Z",
+    "assets": [
+      {
+        "name": "1.18.1.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.18.1/1.18.1.Appx",
+        "size": 714686041
+      },
+      {
+        "name": "1.18.1.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.18.1/1.18.1.Appx.xdelta3",
+        "size": 61988484
+      }
+    ]
+  },
+  {
+    "version": "1.18.0",
+    "name": "1.18.0",
+    "published_at": "2022-04-30T14:59:59Z",
+    "assets": [
+      {
+        "name": "1.18.0.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.18.0/1.18.0.Appx",
+        "size": 714588996
+      },
+      {
+        "name": "1.18.0.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.18.0/1.18.0.Appx.xdelta3",
+        "size": 308698403
+      }
+    ]
+  },
+  {
+    "version": "1.17.41",
+    "name": "1.17.41",
+    "published_at": "2022-04-30T14:59:57Z",
+    "assets": [
+      {
+        "name": "1.17.41.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.41/1.17.41.Appx",
+        "size": 592998443
+      },
+      {
+        "name": "1.17.41.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.41/1.17.41.Appx.xdelta3",
+        "size": 57267717
+      }
+    ]
+  },
+  {
+    "version": "1.17.40",
+    "name": "1.17.40",
+    "published_at": "2022-04-30T14:59:54Z",
+    "assets": [
+      {
+        "name": "1.17.40.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.40/1.17.40.Appx",
+        "size": 593129531
+      },
+      {
+        "name": "1.17.40.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.40/1.17.40.Appx.xdelta3",
+        "size": 69950131
+      }
+    ]
+  },
+  {
+    "version": "1.17.34",
+    "name": "1.17.34",
+    "published_at": "2022-04-29T17:41:18Z",
+    "assets": [
+      {
+        "name": "1.17.34.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.34/1.17.34.Appx",
+        "size": 599411529
+      },
+      {
+        "name": "1.17.34.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.34/1.17.34.Appx.xdelta3",
+        "size": 63579975
+      }
+    ]
+  },
+  {
+    "version": "1.17.32",
+    "name": "1.17.32",
+    "published_at": "2022-04-29T17:41:11Z",
+    "assets": [
+      {
+        "name": "1.17.32.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.32/1.17.32.Appx",
+        "size": 599387091
+      },
+      {
+        "name": "1.17.32.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.32/1.17.32.Appx.xdelta3",
+        "size": 62977406
+      }
+    ]
+  },
+  {
+    "version": "1.17.30",
+    "name": "1.17.30",
+    "published_at": "2022-04-29T17:41:10Z",
+    "assets": [
+      {
+        "name": "1.17.11.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.30/1.17.11.Appx.xdelta3",
+        "size": 55275490
+      },
+      {
+        "name": "1.17.30.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.30/1.17.30.Appx",
+        "size": 599428759
+      }
+    ]
+  },
+  {
+    "version": "1.17.11",
+    "name": "1.17.11",
+    "published_at": "2022-04-29T17:28:32Z",
+    "assets": [
+      {
+        "name": "1.17.11.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.11/1.17.11.Appx",
+        "size": 457811156
+      },
+      {
+        "name": "1.17.11.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.11/1.17.11.Appx.xdelta3",
+        "size": 55275490
+      }
+    ]
+  },
+  {
+    "version": "1.17.10",
+    "name": "1.17.10",
+    "published_at": "2022-04-29T17:19:27Z",
+    "assets": [
+      {
+        "name": "1.17.10.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.10/1.17.10.Appx",
+        "size": 457911645
+      },
+      {
+        "name": "1.17.10.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.10/1.17.10.Appx.xdelta3",
+        "size": 70220088
+      }
+    ]
+  },
+  {
+    "version": "1.17.2",
+    "name": "1.17.2",
+    "published_at": "2022-04-29T17:19:26Z",
+    "assets": [
+      {
+        "name": "1.17.2.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.2/1.17.2.Appx",
+        "size": 458887976
+      },
+      {
+        "name": "1.17.2.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.2/1.17.2.Appx.xdelta3",
+        "size": 62898763
+      }
+    ]
+  },
+  {
+    "version": "1.17.0",
+    "name": "1.17.0",
+    "published_at": "2022-04-29T17:19:24Z",
+    "assets": [
+      {
+        "name": "1.17.0.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.0/1.17.0.Appx",
+        "size": 458836211
+      },
+      {
+        "name": "1.17.0.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.17.0/1.17.0.Appx.xdelta3",
+        "size": 339004060
+      }
+    ]
+  },
+  {
+    "version": "1.16.221",
+    "name": "1.16.221",
+    "published_at": "2022-04-29T17:02:42Z",
+    "assets": [
+      {
+        "name": "1.16.221.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.16.221/1.16.221.Appx",
+        "size": 414769632
+      },
+      {
+        "name": "1.16.221.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.16.221/1.16.221.Appx.xdelta3",
+        "size": 25558687
+      }
+    ]
+  },
+  {
+    "version": "1.16.220",
+    "name": "1.16.220",
+    "published_at": "2022-04-29T17:02:40Z",
+    "assets": [
+      {
+        "name": "1.16.220.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.16.220/1.16.220.Appx",
+        "size": 414707925
+      },
+      {
+        "name": "1.16.220.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.16.220/1.16.220.Appx.xdelta3",
+        "size": 31598298
+      }
+    ]
+  },
+  {
+    "version": "1.16.210",
+    "name": "1.16.210",
+    "published_at": "2022-04-29T16:54:05Z",
+    "assets": [
+      {
+        "name": "1.16.210.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.16.210/1.16.210.Appx",
+        "size": 413606811
+      },
+      {
+        "name": "1.16.210.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.16.210/1.16.210.Appx.xdelta3",
+        "size": 55123957
+      }
+    ]
+  },
+  {
+    "version": "1.16.201",
+    "name": "1.16.201",
+    "published_at": "2022-04-29T16:53:28Z",
+    "assets": [
+      {
+        "name": "1.16.201.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.16.201/1.16.201.Appx",
+        "size": 390547883
+      },
+      {
+        "name": "1.16.201.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.16.201/1.16.201.Appx.xdelta3",
+        "size": 24309967
+      }
+    ]
+  },
+  {
+    "version": "1.16.200",
+    "name": "1.16.200",
+    "published_at": "2022-04-29T16:38:50Z",
+    "assets": [
+      {
+        "name": "1.16.200.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.16.200/1.16.200.Appx",
+        "size": 390540505
+      },
+      {
+        "name": "1.16.200.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.16.200/1.16.200.Appx.xdelta3",
+        "size": 338686360
+      }
+    ]
+  },
+  {
+    "version": "1.16.100",
+    "name": "1.16.100",
+    "published_at": "2022-04-29T16:32:56Z",
+    "assets": [
+      {
+        "name": "1.16.100.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.16.100/1.16.100.Appx",
+        "size": 308772848
+      },
+      {
+        "name": "1.16.100.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.16.100/1.16.100.Appx.xdelta3",
+        "size": 50113600
+      }
+    ]
+  },
+  {
+    "version": "1.16.40",
+    "name": "1.16.40",
+    "published_at": "2022-04-29T16:26:36Z",
+    "assets": [
+      {
+        "name": "1.16.40.Appx",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.16.40/1.16.40.Appx",
+        "size": 300452468
+      },
+      {
+        "name": "1.16.40.Appx.xdelta3",
+        "url": "https://github.com/OnixClient/onix_compatible_appx/releases/download/1.16.40/1.16.40.Appx.xdelta3",
+        "size": 152840619
+      }
+    ]
+  }
+]
