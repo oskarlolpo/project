@@ -144,6 +144,7 @@ pub enum ModLoader {
     Fabric,
     Quilt,
     NeoForge,
+    Bedrock,
 }
 
 impl ModLoader {
@@ -154,6 +155,7 @@ impl ModLoader {
             Self::Fabric => "fabric",
             Self::Quilt => "quilt",
             Self::NeoForge => "neoforge",
+            Self::Bedrock => "bedrock",
         }
     }
 
@@ -164,6 +166,7 @@ impl ModLoader {
             Self::Fabric => "fabric",
             Self::Quilt => "quilt",
             Self::NeoForge => "neo",
+            Self::Bedrock => "bedrock",
         }
     }
 
@@ -174,6 +177,7 @@ impl ModLoader {
             "fabric" => Self::Fabric,
             "quilt" => Self::Quilt,
             "neoforge" => Self::NeoForge,
+            "bedrock" => Self::Bedrock,
             _ => Self::Vanilla,
         }
     }

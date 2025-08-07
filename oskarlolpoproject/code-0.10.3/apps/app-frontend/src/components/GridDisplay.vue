@@ -17,6 +17,7 @@ import { formatCategoryHeader } from '@modrinth/utils'
 import ContextMenu from '@/components/ui/ContextMenu.vue'
 import dayjs from 'dayjs'
 import { duplicate, remove } from '@/helpers/profile.js'
+import { remove_bedrock_instance } from '@/helpers/bedrock.js'
 import { handleError } from '@/store/notifications.js'
 import ConfirmModalWrapper from '@/components/ui/modal/ConfirmModalWrapper.vue'
 
@@ -40,10 +41,20 @@ const confirmModal = ref(null)
 
 async function deleteProfile() {
   if (currentDeleteInstance.value) {
+    const instance = instanceComponents.value.find(
+      (x) => x.instance.path === currentDeleteInstance.value
+    )
+    
     instanceComponents.value = instanceComponents.value.filter(
       (x) => x.instance.path !== currentDeleteInstance.value,
     )
-    await remove(currentDeleteInstance.value).catch(handleError)
+    
+    // Handle Bedrock instances differently
+    if (instance?.instance.type === 'bedrock') {
+      await remove_bedrock_instance(currentDeleteInstance.value).catch(handleError)
+    } else {
+      await remove(currentDeleteInstance.value).catch(handleError)
+    }
   }
 }
 

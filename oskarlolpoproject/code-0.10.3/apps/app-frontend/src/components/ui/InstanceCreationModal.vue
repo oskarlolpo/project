@@ -53,11 +53,11 @@
           />
         </div>
       </div>
-      <div v-if="showAdvanced && loader !== 'vanilla'" class="input-row">
+      <div v-if="showAdvanced && loader !== 'vanilla' && loader !== 'bedrock'" class="input-row">
         <p class="input-label">Loader version</p>
         <Chips v-model="loader_version" :items="['stable', 'latest', 'other']" />
       </div>
-      <div v-if="showAdvanced && loader_version === 'other' && loader !== 'vanilla'">
+      <div v-if="showAdvanced && loader_version === 'other' && loader !== 'vanilla' && loader !== 'bedrock'">
         <div v-if="game_version" class="input-row">
           <p class="input-label">Select version</p>
           <multiselect
@@ -74,6 +74,21 @@
           <p class="warning">Select a game version before you select a loader version</p>
         </div>
       </div>
+      
+      <!-- Bedrock-specific information -->
+      <div v-if="loader === 'bedrock'" class="bedrock-info">
+        <div class="info-message">
+          <InfoIcon />
+          <p>
+            Bedrock Edition instances will download and install the .appx package from OnixClient repository.
+            This requires Windows and administrator privileges for installation.
+          </p>
+        </div>
+        <div v-if="bedrock_creating && bedrock_creation_status" class="creation-status">
+          <p>{{ bedrock_creation_status }}</p>
+        </div>
+      </div>
+      
       <div class="input-group push-right">
         <Button @click="toggle_advanced">
           <CodeIcon />
@@ -83,9 +98,13 @@
           <XIcon />
           Cancel
         </Button>
-        <Button color="primary" :disabled="!check_valid || creating" @click="create_instance()">
-          <PlusIcon v-if="!creating" />
-          {{ creating ? 'Creating...' : 'Create' }}
+        <Button color="primary" :disabled="!check_valid || creating || bedrock_creating" @click="create_instance()">
+          <PlusIcon v-if="!creating && !bedrock_creating" />
+          {{ 
+            bedrock_creating ? 'Creating Bedrock...' : 
+            creating ? 'Creating...' : 
+            'Create' 
+          }}
         </Button>
       </div>
     </div>
@@ -212,6 +231,7 @@ import { Avatar, Button, Checkbox, Chips } from '@modrinth/ui'
 import { computed, onUnmounted, ref, shallowRef } from 'vue'
 import { get_loaders } from '@/helpers/tags'
 import { create } from '@/helpers/profile'
+import { get_bedrock_versions, create_bedrock_instance, is_bedrock_supported } from '@/helpers/bedrock'
 import { open } from '@tauri-apps/plugin-dialog'
 import { convertFileSrc } from '@tauri-apps/api/core'
 import { get_game_versions, get_loader_versions } from '@/helpers/metadata'
@@ -239,6 +259,11 @@ const creating = ref(false)
 const showSnapshots = ref(false)
 const creationType = ref('custom')
 const isShowing = ref(false)
+
+// Bedrock-specific variables
+const bedrock_versions = ref([])
+const bedrock_creating = ref(false)
+const bedrock_creation_status = ref('')
 
 defineExpose({
   show: async () => {
@@ -314,7 +339,25 @@ const [
 ])
 loaders.value.unshift('vanilla')
 
+// Add Bedrock support if on Windows
+if (is_bedrock_supported()) {
+  loaders.value.push('bedrock')
+  // Load Bedrock versions
+  try {
+    const bedrockData = await get_bedrock_versions()
+    bedrock_versions.value = bedrockData.versions || []
+  } catch (error) {
+    console.warn('Failed to load Bedrock versions:', error)
+    bedrock_versions.value = []
+  }
+}
+
 const game_versions = computed(() => {
+  // For Bedrock, return Bedrock versions instead of Java versions
+  if (loader.value === 'bedrock') {
+    return bedrock_versions.value.map((item) => item.id)
+  }
+
   return all_game_versions.value.versions
     .filter((item) => {
       let defaultVal = item.type === 'release' || showSnapshots.value
@@ -345,6 +388,43 @@ const check_valid = computed(() => {
 
 const create_instance = async () => {
   creating.value = true
+  
+  // Handle Bedrock instance creation differently
+  if (loader.value === 'bedrock') {
+    bedrock_creating.value = true
+    bedrock_creation_status.value = 'Starting Bedrock instance creation...'
+    
+    try {
+      await create_bedrock_instance(
+        profile_name.value,
+        game_version.value,
+        icon.value,
+        (status) => {
+          bedrock_creation_status.value = status
+        }
+      )
+
+      trackEvent('InstanceCreate', {
+        profile_name: profile_name.value,
+        game_version: game_version.value,
+        loader: 'bedrock',
+        has_icon: !!icon.value,
+        source: 'CreationModal',
+      })
+      
+      bedrock_creation_status.value = 'Bedrock instance created successfully!'
+    } catch (error) {
+      handleError(error)
+      bedrock_creation_status.value = 'Failed to create Bedrock instance'
+    } finally {
+      bedrock_creating.value = false
+      creating.value = false
+      hide()
+    }
+    return
+  }
+
+  // Handle Java Edition instance creation (existing logic)
   const loader_version_value =
     loader_version.value === 'other' ? specified_loader_version.value : loader_version.value
   const loaderVersion = loader.value === 'vanilla' ? null : loader_version_value ?? 'stable'
@@ -588,6 +668,50 @@ const next = async () => {
   flex-direction: row;
   gap: 0.5rem;
   align-items: center;
+}
+
+/* Bedrock-specific styles */
+.bedrock-info {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: var(--color-raised-bg);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-button-bg);
+}
+
+.bedrock-info .info-message {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.bedrock-info .info-message svg {
+  color: var(--color-orange);
+  flex-shrink: 0;
+  margin-top: 0.1rem;
+}
+
+.bedrock-info .info-message p {
+  margin: 0;
+  color: var(--color-base);
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+.bedrock-info .creation-status {
+  margin-top: 0.5rem;
+  padding: 0.5rem;
+  background-color: var(--color-bg);
+  border-radius: var(--radius-sm);
+  border-left: 3px solid var(--color-brand);
+}
+
+.bedrock-info .creation-status p {
+  margin: 0;
+  color: var(--color-base);
+  font-size: 0.9rem;
+  font-weight: 500;
 }
 
 .modal-header {

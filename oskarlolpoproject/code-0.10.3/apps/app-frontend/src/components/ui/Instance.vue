@@ -12,6 +12,7 @@ import {
 import { Avatar, ButtonStyled, useRelativeTime } from '@modrinth/ui'
 import { convertFileSrc } from '@tauri-apps/api/core'
 import { finish_install, kill, run } from '@/helpers/profile'
+import { run_bedrock_instance } from '@/helpers/bedrock'
 import { get_by_profile_path } from '@/helpers/process'
 import { process_listener } from '@/helpers/events'
 import { handleError } from '@/store/state.js'
@@ -47,8 +48,21 @@ const modLoading = computed(
     currentEvent.value === 'installing' ||
     (currentEvent.value === 'launched' && !playing.value),
 )
-const installing = computed(() => props.instance.install_stage.includes('installing'))
-const installed = computed(() => props.instance.install_stage === 'installed')
+const installing = computed(() => {
+  // Bedrock instances don't have install_stage
+  if (props.instance.type === 'bedrock') {
+    return false
+  }
+  return props.instance.install_stage?.includes('installing') || false
+})
+
+const installed = computed(() => {
+  // Bedrock instances use 'installed' property
+  if (props.instance.type === 'bedrock') {
+    return props.instance.installed !== false
+  }
+  return props.instance.install_stage === 'installed'
+})
 
 const router = useRouter()
 
@@ -65,16 +79,26 @@ const checkProcess = async () => {
 const play = async (e, context) => {
   e?.stopPropagation()
   loading.value = true
-  await run(props.instance.path)
-    .catch((err) => handleSevereError(err, { profilePath: props.instance.path }))
-    .finally(() => {
-      trackEvent('InstancePlay', {
-        loader: props.instance.loader,
-        game_version: props.instance.game_version,
-        source: context,
-      })
+  
+  try {
+    // Handle Bedrock instances differently
+    if (props.instance.type === 'bedrock' || props.instance.loader === 'bedrock') {
+      await run_bedrock_instance(props.instance.path)
+    } else {
+      // Handle Java instances
+      await run(props.instance.path)
+    }
+    
+    trackEvent('InstancePlay', {
+      loader: props.instance.loader,
+      game_version: props.instance.game_version || props.instance.version,
+      source: context,
     })
-  loading.value = false
+  } catch (err) {
+    handleSevereError(err, { profilePath: props.instance.path })
+  } finally {
+    loading.value = false
+  }
 }
 
 const stop = async (e, context) => {

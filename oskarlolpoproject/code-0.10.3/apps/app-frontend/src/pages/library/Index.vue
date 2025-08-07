@@ -1,6 +1,7 @@
 <script setup>
 import { onUnmounted, ref, shallowRef } from 'vue'
 import { list } from '@/helpers/profile.js'
+import { list_bedrock_instances, is_bedrock_supported } from '@/helpers/bedrock.js'
 import { useRoute } from 'vue-router'
 import { useBreadcrumbs } from '@/store/breadcrumbs.js'
 import { profile_listener } from '@/helpers/events.js'
@@ -16,7 +17,22 @@ const breadcrumbs = useBreadcrumbs()
 
 breadcrumbs.setRootContext({ name: 'Library', link: route.path })
 
-const instances = shallowRef(await list().catch(handleError))
+// Load Java instances
+const javaInstances = await list().catch(handleError) || []
+
+// Load Bedrock instances if supported
+let bedrockInstances = []
+if (is_bedrock_supported()) {
+  bedrockInstances = await list_bedrock_instances().catch(handleError) || []
+  // Mark Bedrock instances with a type for differentiation
+  bedrockInstances.forEach(instance => {
+    instance.type = 'bedrock'
+    instance.loader = 'bedrock'
+  })
+}
+
+// Combine all instances
+const instances = shallowRef([...javaInstances, ...bedrockInstances])
 
 const offline = ref(!navigator.onLine)
 window.addEventListener('offline', () => {
@@ -27,7 +43,21 @@ window.addEventListener('online', () => {
 })
 
 const unlistenProfile = await profile_listener(async () => {
-  instances.value = await list().catch(handleError)
+  // Reload Java instances
+  const javaInstances = await list().catch(handleError) || []
+  
+  // Reload Bedrock instances if supported
+  let bedrockInstances = []
+  if (is_bedrock_supported()) {
+    bedrockInstances = await list_bedrock_instances().catch(handleError) || []
+    bedrockInstances.forEach(instance => {
+      instance.type = 'bedrock'
+      instance.loader = 'bedrock'
+    })
+  }
+  
+  // Update combined instances
+  instances.value = [...javaInstances, ...bedrockInstances]
 })
 onUnmounted(() => {
   unlistenProfile()
